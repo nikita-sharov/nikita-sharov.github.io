@@ -1,0 +1,14 @@
+{
+  "name": "@nikita-sharov/feather-icon-inspector",
+  "main": "f665ca6a4fbd8250@694.js",
+  "version": "694.0.0",
+  "homepage": "https://observablehq.com/@nikita-sharov/feather-icon-inspector",
+  "author": {
+    "name": "Nikita Sharov",
+    "url": "https://observablehq.com/@nikita-sharov"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

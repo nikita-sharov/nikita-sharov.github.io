@@ -1,0 +1,208 @@
+[
+  {
+    "name": "nikita-sharov.github.io",
+    "languages": [
+      {
+        "name": "HTML",
+        "numberOfBytes": 20
+      }
+    ]
+  },
+  {
+    "name": "personal-website",
+    "languages": [
+      {
+        "name": "HTML",
+        "numberOfBytes": 17497
+      },
+      {
+        "name": "CSS",
+        "numberOfBytes": 5105
+      },
+      {
+        "name": "Ruby",
+        "numberOfBytes": 137
+      }
+    ]
+  },
+  {
+    "name": "developer-roadmap",
+    "languages": []
+  },
+  {
+    "name": "opla-energy",
+    "languages": [
+      {
+        "name": "JavaScript",
+        "numberOfBytes": 1166090
+      },
+      {
+        "name": "CSS",
+        "numberOfBytes": 921074
+      },
+      {
+        "name": "HTML",
+        "numberOfBytes": 125898
+      },
+      {
+        "name": "C#",
+        "numberOfBytes": 2520
+      }
+    ]
+  },
+  {
+    "name": "acp",
+    "languages": [
+      {
+        "name": "C#",
+        "numberOfBytes": 7941
+      },
+      {
+        "name": "HTML",
+        "numberOfBytes": 4425
+      },
+      {
+        "name": "CSS",
+        "numberOfBytes": 2884
+      }
+    ]
+  },
+  {
+    "name": ".github",
+    "languages": []
+  },
+  {
+    "name": "alten",
+    "languages": [
+      {
+        "name": "C#",
+        "numberOfBytes": 84829
+      }
+    ]
+  },
+  {
+    "name": "docs",
+    "languages": []
+  },
+  {
+    "name": "proposals.de-de",
+    "languages": [
+      {
+        "name": "JavaScript",
+        "numberOfBytes": 4139
+      },
+      {
+        "name": "HTML",
+        "numberOfBytes": 3609
+      },
+      {
+        "name": "C#",
+        "numberOfBytes": 1919
+      },
+      {
+        "name": "CSS",
+        "numberOfBytes": 175
+      }
+    ]
+  },
+  {
+    "name": "docs.de-de",
+    "languages": []
+  },
+  {
+    "name": "pure-legacy",
+    "languages": [
+      {
+        "name": "C#",
+        "numberOfBytes": 73663
+      },
+      {
+        "name": "HTML",
+        "numberOfBytes": 53888
+      },
+      {
+        "name": "JavaScript",
+        "numberOfBytes": 3943
+      },
+      {
+        "name": "CSS",
+        "numberOfBytes": 745
+      }
+    ]
+  },
+  {
+    "name": "dimdex",
+    "languages": [
+      {
+        "name": "CSS",
+        "numberOfBytes": 180425
+      },
+      {
+        "name": "C#",
+        "numberOfBytes": 80033
+      },
+      {
+        "name": "HTML",
+        "numberOfBytes": 36930
+      },
+      {
+        "name": "JavaScript",
+        "numberOfBytes": 767
+      }
+    ]
+  },
+  {
+    "name": "proposals",
+    "languages": [
+      {
+        "name": "C#",
+        "numberOfBytes": 1529708
+      },
+      {
+        "name": "HTML",
+        "numberOfBytes": 244294
+      },
+      {
+        "name": "CSS",
+        "numberOfBytes": 14997
+      },
+      {
+        "name": "JavaScript",
+        "numberOfBytes": 13854
+      },
+      {
+        "name": "TSQL",
+        "numberOfBytes": 7176
+      },
+      {
+        "name": "Visual Basic .NET",
+        "numberOfBytes": 1433
+      },
+      {
+        "name": "ASP",
+        "numberOfBytes": 101
+      }
+    ]
+  },
+  {
+    "name": "website",
+    "languages": [
+      {
+        "name": "C#",
+        "numberOfBytes": 91410
+      },
+      {
+        "name": "HTML",
+        "numberOfBytes": 22189
+      },
+      {
+        "name": "JavaScript",
+        "numberOfBytes": 15351
+      },
+      {
+        "name": "CSS",
+        "numberOfBytes": 13415
+      }
+    ]
+  }
+]
